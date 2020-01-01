@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2020-01-01 21:48:30 +0800
-categories: jekyll update
+title: "TIL 시작"
+date: 2020-01-01 22:01:50 +0800
+categories: TIL
 ---
-test
+오늘 했던일과 내일 할일을 매일 간단하게 정리하여 업로드 할 예정
