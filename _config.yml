@@ -1,7 +1,7 @@
 title: Kimsihwan Blog
 author: Kimsihwan
 email: namid882@gmail.com
-url: "https://dda_re.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://Kimsihwan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 remote_theme : jekyll/minima
 description: > # this means to ignore newlines until "show_excerpts:"
