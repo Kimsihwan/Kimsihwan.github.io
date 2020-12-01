@@ -4,7 +4,7 @@ date: 2020-11-30 23:56:00 +0900
 categories: Algorithm
 ---
 
-```
+<pre><code>
 	public int solution(int[][] board, int[] moves) {
 		int answer = 0;
 		Stack<Integer> stack = new Stack<>();
@@ -46,4 +46,4 @@ categories: Algorithm
 		}
 		return answer;
 	}
-    ```
+</code></pre>
